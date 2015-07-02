@@ -29,7 +29,7 @@ You can get these properties by:
 ```clj
 (int-env :a)
 (double-env :b)
-(env :c) //or (string-env :c)
+(env :c) ;;or (string-env :c)
 ```
 
 With a default value if the property is not present:
@@ -41,7 +41,7 @@ With a default value if the property is not present:
 Add a callback listener to be notified when the property is changed:
 
 ```clj
-(on-int-env :a (fn [] (println "The new :a is " (int-env :a)))
+(on-int-env :a (fn [] (println "The new :a is " (int-env :a))))
 ```
 
 Supported types and their default values as below:
