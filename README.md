@@ -34,7 +34,7 @@ You can get these properties by:
 
 With a default value if the property is not present:
 
-```
+```clj
 (int-env :not-exists 100)
 ```
 
