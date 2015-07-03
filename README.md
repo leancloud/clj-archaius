@@ -1,6 +1,6 @@
 # clj-archaius
 
-A Clojure library designed use [Netflix/archaius](https://github.com/Netflix/archaius/) for configuration management.
+A Clojure library designed to use [Netflix/archaius](https://github.com/Netflix/archaius/) for configuration management.
 
 ## Usage
 
