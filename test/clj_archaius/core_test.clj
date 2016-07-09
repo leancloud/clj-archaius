@@ -13,6 +13,7 @@
     (is (= (double-env :unknown) 0.0))
     (is (= (env :d) "hello"))
     (is (= (string-env :d) "hello"))
+    (is (= (env :chinese) "中文"))
     (is (= (env :a.b.c) "world"))
     (is (= (string-env :a.b.c) "world"))
     (is (= (env :unknown) nil))
