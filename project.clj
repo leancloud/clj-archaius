@@ -1,6 +1,6 @@
 (defproject clj-archaius "0.2.0"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+  :description "A Clojure library designed to use Netflix/archaius for configuration management."
+  :url "https://github.com/leancloud/clj-archaius"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
