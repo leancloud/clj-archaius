@@ -1,4 +1,4 @@
-(defproject cn.leancloud/clj-archaius "0.4.0-SNAPSHOT"
+(defproject cn.leancloud/clj-archaius "0.4.0"
   :description "A Clojure library designed to use Netflix/archaius for configuration management."
   :url "https://github.com/leancloud/clj-archaius"
   :license {:name "Eclipse Public License"
