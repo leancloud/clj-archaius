@@ -7,7 +7,7 @@ A Clojure library designed to use [Netflix/archaius](https://github.com/Netflix/
 Leiningen dependency:
 
 ```clj
-[clj-archaius "0.2.0]
+[cn.leancloud/clj-archaius "0.4.1"]
 ```
 
 Require clj-archaius in your namespace:
